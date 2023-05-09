@@ -1,2 +1,1 @@
-# gd32-study-board
-Минимальная обвязка под GD32
+# EasyEDA - gd32-study-board 
