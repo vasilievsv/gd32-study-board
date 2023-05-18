@@ -4,7 +4,7 @@
   "name": "gd32-study-board",
   "content": "",
   "created_at": "2022-10-20 16:06:10",
-  "updated_at": "2023-05-18 09:18:07",
+  "updated_at": "2023-05-18 11:34:47",
   "stick": "",
   "documents": [
     {
@@ -57,9 +57,9 @@
         ],
         [
           "1k",
-          4,
+          3,
           "R0805",
-          "R1,R3,R4,R7",
+          "R1,R3,R7",
           {
             "BOM_Supplier Part": "",
             "BOM_Supplier": "",
@@ -70,9 +70,9 @@
         ],
         [
           "10k",
-          1,
+          2,
           "R0805",
-          "R2",
+          "R2,R4",
           {
             "BOM_Supplier Part": "",
             "BOM_Supplier": "",
@@ -112,16 +112,16 @@
           }
         ]
       ],
-      "updateTime": 1684390687,
+      "updateTime": 1684398887,
       "createTime": 1666271170,
       "histories": [],
       "created_at": "2022-10-20 16:06:10",
-      "updated_at": "2023-05-18 09:18:07"
+      "updated_at": "2023-05-18 11:34:47"
     }
   ],
   "sort": [],
   "title": "gd32-study-board",
   "foldername": "gd32-study-board",
   "schfilename": "gd32-study-board.json",
-  "schfilemtime": 1684390687083
+  "schfilemtime": 1684398887535
 }
